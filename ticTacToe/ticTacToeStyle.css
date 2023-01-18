@@ -1,0 +1,47 @@
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+button{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    font-size: 60px;
+}
+td{
+    column-width: 50px;
+}
+
+body{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    background-color: rgba(0, 0, 0, 0.712)
+
+}
+#outerDiv{
+    width: 400px;
+    height: 450px;
+    padding: 15px;
+    background-color:rgba(0, 0, 0, 0.801);
+    margin:auto;
+    font-size: 50px;
+    border: white solid 3px;
+    
+      
+}
+#result{
+    
+    width: 400px;
+    height: 100px;
+    padding: 15px;
+    background-color:rgba(0, 0, 0, 0.801);
+    margin:auto;
+    font-size: 50px;
+    border: white solid 3px;
+    
+}
